@@ -24,4 +24,4 @@ For the file 2024.11.11_SANDRDHK SWPPP Appendix A-L 66.pdf, the expected output 
 
 
 # prompt for checklist requirements
-Examine the selected document and tell me whether it contains the following drawings, and on which page they appear: Existing Site Plan, Construction Sequencing and ESC Site Plans, Erosion and Sediment Control (ESC) Practice Detail Plans, Proposed Site Plan, Final Landscaping and Stabilization Plan
+Examine the selected document and tell me whether it contains the following drawings, and on which page they appear: Existing Site Plan, Construction Sequencing Plan, ESC Site Plans, Erosion and Sediment Control (ESC) Practice Detail Plans, Proposed Site Plan, Final Landscaping and Stabilization Plan
